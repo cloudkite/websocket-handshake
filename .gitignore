@@ -1,0 +1,4 @@
+/worker-configuration.d.ts
+/.vscode
+.DS_Store
+/node_modules

@@ -1,0 +1,17 @@
+{
+  "name": "websocket-handshake",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev-vite": "vite dev",
+    "dev-wrangler": "wrangler dev",
+    "cf-typegen": "wrangler types"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.11.5",
+    "typescript": "^5.5.2",
+    "vite": "^7.1.2",
+    "wrangler": "^4.30.0"
+  }
+}
